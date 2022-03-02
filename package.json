@@ -1,7 +1,7 @@
 {
-  "name": "sd-0x-block8-project-js-unit-tests",
+  "name": "js-unit-tests",
   "version": "1.0.0",
-  "description": "Project for block 8",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest",
